@@ -1,12 +1,31 @@
-# React + Vite
+# 📘 React Hooks Practice  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is a collection of **React Hooks** examples.  
+It’s meant for learning and practicing how React hooks work in real projects.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Covers important React Hooks step by step  
+- Clean, simple examples for beginners  
+- Easy to run and modify  
+- TailwindCSS setup for styling  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Hooks Covered
+- `useState` 
+- `useEffect` 
+- `useLayoutEffect`  
+- `Props Drilling (Real - Life Example) ` 
+- `useContext`, `useReducer`, `useMemo`, 
+- `useCallback`
+- `useTransition`
+- `useRef`
+- `useId`
+- `How create CustomHook [ useFetch ]`
+
+🤝 Contributing
+
+Pull requests are welcome!
+If you want to add more hook examples, feel free to fork the repo and create a PR.
