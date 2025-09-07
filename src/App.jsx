@@ -1,11 +1,14 @@
 import React from 'react'
-import Counter from "./Hooks/useState";
-import FetchData from './Hooks/useEffect/FetchData';
+import './index.css'
+ // import Counter from "./Hooks/useState";
+// import FetchData from './Hooks/useEffect/FetchData';
+import ChangeBg from './Hooks/useLayoutEffect/ChangeBg';
 const App = () => {
   return (
-    <div className="min-h-screen bg-gray-100">
-      <FetchData/>
+    <div className="min-h-screen">
+      {/* <FetchData/> */}
       {/* <Counter/> */}
+      <ChangeBg/>
 
     </div>
   )
